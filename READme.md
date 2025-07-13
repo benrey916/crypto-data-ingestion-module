@@ -1,7 +1,7 @@
 # Crypto Data Collector ( Free and Unlimited ) - AI Trading Data Ingestion
 
 A comprehensive Python-based crypto market data collector that fetches historical and live OHLCV (Open, High, Low, Close, Volume) candlestick data from multiple cryptocurrency exchanges. It supports various intervals and symbols, storing data efficiently in Parquet format for easy analysis.
-
+[![Watch the video](https://raw.githubusercontent.com/benrey916/crypto-data-ingestion-module/master/crypto_collector_video.mp4)
 ![Demo GIF](crypto_collector.gif)
 
 ## Table of Contents
