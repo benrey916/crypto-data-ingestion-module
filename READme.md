@@ -16,7 +16,7 @@ A comprehensive Python-based crypto market data collector that fetches historica
 - [Extending the Collector](#extending-the-collector)
 - [Troubleshooting and Logging](#troubleshooting-and-logging)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgments) 
 
 ## Overview
 
