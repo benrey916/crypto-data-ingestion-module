@@ -2,7 +2,8 @@
 
 A comprehensive Python-based crypto market data collector that fetches historical and live OHLCV (Open, High, Low, Close, Volume) candlestick data from multiple cryptocurrency exchanges. It supports various intervals and symbols, storing data efficiently in Parquet format for easy analysis.
 
-![Download Video](https://img.shields.io/badge/Download-Video-blue?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/benrey916/crypto-data-ingestion-module/master/crypto_collector_video.mp4)
+[![Download Video](https://img.shields.io/badge/Download-Video-blue?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/benrey916/crypto-data-ingestion-module/master/crypto_collector_video.mp4)
+
 ![Demo GIF](crypto_collector.gif)
 
 ## Table of Contents
