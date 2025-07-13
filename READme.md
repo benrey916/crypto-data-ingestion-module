@@ -4,6 +4,7 @@ A comprehensive Python-based crypto market data collector that fetches historica
 
 [![Download Video](https://img.shields.io/badge/Download-Video-blue?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/benrey916/crypto-data-ingestion-module/master/crypto_collector_video.mp4)
 
+Here is GIF file.
 ![Demo GIF](crypto_collector.gif)
 
 ## Table of Contents
