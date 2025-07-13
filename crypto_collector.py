@@ -771,7 +771,7 @@ class CryptoCollector:
 def main():
     # Define all symbols to collect (using USD instead of USDT for exchanges that don't support USDT)
     symbols = ["BTC-USDT", "ETH-USDT", "SOL-USDT", "DOGE-USDT", "SUI-USDT", "XRP-USDT"]
-    intervals = ["1d", "6h", "4h", "1h", "15m" ]
+    intervals = ["15m", "1h", "4h", "6h", "1d"]
     
     symbol_start_times = {
         "BTC-USDT": int(datetime(2018, 1, 1, tzinfo=timezone.utc).timestamp() * 1000)
